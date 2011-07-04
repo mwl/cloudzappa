@@ -1,0 +1,16 @@
+{
+  "name": "cloudzappa",
+  "description": "A template for creating Zappa (https://github.com/mauricemach/zappa) applications in the cloud",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mwl/cloudzappa.git"
+  },
+  "author": "Martin Westergaard Lassen <martin@mwl.dk>",
+  "directories": {
+    "zappa": ">= 0.1.5"
+  },
+  "engines": {
+    "node": ">= 0.4.7"
+  }
+}
