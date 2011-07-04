@@ -7,7 +7,7 @@
     "url": "git://github.com/mwl/cloudzappa.git"
   },
   "author": "Martin Westergaard Lassen <martin@mwl.dk>",
-  "directories": {
+  "dependencies": {
     "zappa": ">= 0.1.5"
   },
   "engines": {
